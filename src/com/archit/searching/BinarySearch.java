@@ -1,11 +1,5 @@
 package com.archit.searching;
 
-/**
- * Created by Archit Saxena
- * Date: 18/06/25
- * Time: 1:25 am
- * Tekion Corp. © 2025
- */
 public class BinarySearch {
 
     public static void main(String args[]) {

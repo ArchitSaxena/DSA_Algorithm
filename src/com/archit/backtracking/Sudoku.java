@@ -2,12 +2,6 @@ package com.archit.backtracking;
 
 import java.util.Objects;
 
-/**
- * Created by Archit Saxena
- * Date: 06/07/25
- * Time: 3:39 pm
- * Tekion Corp. © 2025
- */
 public class Sudoku {
     public static void main(String[] args) {
         Sudoku obj = new Sudoku();

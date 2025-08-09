@@ -2,12 +2,6 @@ package com.archit.searching;
 
 import java.util.List;
 
-/**
- * Created by Archit Saxena
- * Date: 18/06/25
- * Time: 1:41 am
- * Tekion Corp. © 2025
- */
 public class RolColBinarySearch {
     public static void main(String[] args) {
         RolColBinarySearch obj = new RolColBinarySearch();

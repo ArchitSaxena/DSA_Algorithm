@@ -1,11 +1,5 @@
 package com.archit.linkedList;
 
-/**
- * Created by Archit Saxena
- * Date: 08/07/25
- * Time: 1:45 am
- * Tekion Corp. © 2025
- */
 public class LinkedList {
     private Node head;
     private Node tail;

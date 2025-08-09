@@ -1,11 +1,6 @@
 package com.archit.sorting;
 
-/**
- * Created by Archit Saxena
- * Date: 09/08/25
- * Time: 1:05 pm
- * Tekion Corp. © 2025
- */
+
 
 /*Dutch National Flag Algorithm
 The dutch national flag algorithm involves sorting the nums array by partitioning it into 3 segments.

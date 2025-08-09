@@ -1,11 +1,5 @@
 package com.archit.linkedList;
 
-/**
- * Created by Archit Saxena
- * Date: 08/07/25
- * Time: 10:22 pm
- * Tekion Corp. © 2025
- */
 public class LinkedListMain {
     public static void main(String[] args) {
         LinkedList obj= new LinkedList();

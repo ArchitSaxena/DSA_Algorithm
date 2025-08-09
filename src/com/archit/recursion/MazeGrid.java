@@ -4,12 +4,6 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by Archit Saxena
- * Date: 02/07/25
- * Time: 11:48 pm
- * Tekion Corp. © 2025
- */
 public class MazeGrid {
     public static void main(String[] args) {
         MazeGrid obj = new MazeGrid();

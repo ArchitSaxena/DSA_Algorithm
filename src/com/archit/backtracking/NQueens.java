@@ -1,11 +1,5 @@
 package com.archit.backtracking;
 
-/**
- * Created by Archit Saxena
- * Date: 05/07/25
- * Time: 12:34 am
- * Tekion Corp. © 2025
- */
 public class NQueens {
     public static void main(String[] args) {
         NQueens obj= new NQueens();

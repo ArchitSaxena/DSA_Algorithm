@@ -2,12 +2,6 @@ package com.archit.sorting;
 
 import java.util.Arrays;
 
-/**
- * Created by Archit Saxena
- * Date: 21/06/25
- * Time: 8:32 pm
- * Tekion Corp. © 2025
- */
 public class SortingAlgos {
     public static void main(String[] args) {
         SortingAlgos obj = new SortingAlgos();

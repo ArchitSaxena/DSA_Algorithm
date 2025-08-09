@@ -3,12 +3,6 @@ package com.archit.recursion;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by Archit Saxena
- * Date: 30/06/25
- * Time: 12:41 am
- * Tekion Corp. © 2025
- */
 public class RollingDiceCombinations {
     public static void main(String[] args) {
         RollingDiceCombinations obj = new RollingDiceCombinations();

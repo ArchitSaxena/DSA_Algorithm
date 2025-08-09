@@ -3,12 +3,6 @@ package com.archit.recursion;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by Archit Saxena
- * Date: 29/06/25
- * Time: 8:43 pm
- * Tekion Corp. © 2025
- */
 public class Permutations {
     public static void main(String[] args) {
         Permutations obj = new Permutations();
